@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{9D2E1E3C-D166-0CB9-7044-D8D720474455}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/LevelColliderScript.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Fade.cs" Line="7" Column="1" />
+      <File FileName="Assets/Scripts/CameraScript.cs" />
+      <File FileName="Assets/Scripts/Boom.cs" />
+      <File FileName="Assets/Scripts/Timer.cs" />
+      <File FileName="Assets/Scripts/Hover.cs" />
+      <File FileName="Assets/Scripts/RandomSpawner.cs" />
+      <File FileName="Assets/Scripts/Projectile.cs" />
+      <File FileName="Assets/Scripts/FadeScript.cs" />
+      <File FileName="Assets/Scripts/awsd.cs" />
+      <File FileName="Assets/Scripts/CameraClamp.cs" />
+      <File FileName="Assets/Scripts/LevelColliderScript.cs" Line="6" Column="33" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="InfiniteHover" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="LevelColliderScript.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="ca6fe27f-d1b4-48ca-baa9-88ee66b46e0c" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
